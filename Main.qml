@@ -86,7 +86,7 @@ MainView {
                     }
 
                     Rectangle {
-                        id: "currenthex"
+                        id: "currenthex"    // mistake - used quotation marks for id (not referenced in application so doesn't affect it)
                         height: parent.height/5 - units.gu(1)
                         width: parent.width - units.gu(2)
                         color: hexstring
@@ -116,7 +116,7 @@ MainView {
 
 
                     Rectangle {
-                        id: "default"
+                        id: "default"   // mistake - used quotation marks for id (not referenced in application so doesn't affect it)
                         height: parent.height/5 - units.gu(1)
                         width: parent.width - units.gu(2)
                         color: UbuntuColors.darkAubergine
@@ -143,7 +143,7 @@ MainView {
                     } //darkAubergine(default)
 
                     Rectangle {
-                        id: "light"
+                        id: "light" // mistake - used quotation marks for id (not referenced in application so doesn't affect it)
                         height: parent.height/5 - units.gu(1)
                         width: parent.width - units.gu(2)
                         color: UbuntuColors.porcelain
@@ -170,7 +170,7 @@ MainView {
                     } //light
 
                     Rectangle {
-                        id: "dark"
+                        id: "dark"  // mistake - used quotation marks for id (not referenced in application so doesn't affect it)
                         height: parent.height/5 - units.gu(1)
                         width: parent.width - units.gu(2)
                         color: "#0a0a0a"
