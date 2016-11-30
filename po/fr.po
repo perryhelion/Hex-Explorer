@@ -31,7 +31,7 @@ msgstr "Couleur de fond"
 
 #: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:111
 msgid "Current Hex"
-msgstr "Couleur hexadécimale actuelle"
+msgstr "Couleur hex. actuelle"
 
 #: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:140
 msgid "Default"
