@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=HexExplorer
+Exec=qmlscene %U HexExplorer/Main.qml
+Icon=HexExplorer/HexExplorer.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

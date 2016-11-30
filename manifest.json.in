@@ -1,0 +1,15 @@
+{
+    "name": "hexexplorer.phelion",
+    "description": "HexExplorer - Move the sliders, see the colour, read the hexadecimal representation.",
+    "architecture": "@CLICK_ARCH@",
+    "title": "HexExplorer",
+    "hooks": {
+        "HexExplorer": {
+            "apparmor": "HexExplorer/HexExplorer.apparmor",
+            "desktop": "HexExplorer/HexExplorer.desktop"
+        }
+    },
+    "version": "0.7",
+    "maintainer": "P Helion <perryhelionsemail@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}
