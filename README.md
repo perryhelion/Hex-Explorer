@@ -5,6 +5,6 @@ Each colour component has 256 different values (from 0 to 255) and can be 'mixed
 
 It was made as a learning exercise for me to see how straightforward or not it was to program in QML and to see what it was like to use the Ubuntu SDK.
 
-**Also hosted at launchpad.net/hexexplorer **
+Also hosted at **launchpad.net/hexexplorer** 
 
 Theoretically you can compile the same program for a range of platforms, but it would require removing or changing the Ubuntu specific references. i.e 'UbuntuColors.orange', 'import Ubuntu.Components 1.3', possibly the 'PageHeader' etc.
