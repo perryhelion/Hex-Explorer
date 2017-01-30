@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-30 01:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:109
+msgid "Hex Explorer"
+msgstr "Hex Explorer"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:123
+msgid "Settings"
+msgstr "Paramètres"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:262
+msgid "Enter Hex"
+msgstr "Entrer l'Hex."
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:286
+msgid "Cancel"
+msgstr "Annuler"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:300
+msgid "Change"
+msgstr "Modifier"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:525
+msgid "Background to Hex"
+msgstr "Couleur de fond en Hex."
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:558
+msgid "Background Colour"
+msgstr "Couleur de fond"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:666
+msgid "Ink Colour"
+msgstr "Couleur de l'encre"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:771
+msgid "Back"
+msgstr "Retour"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/build-HexExplorer-UbuntuSDK_for_desktop1604_GCC_amd64_ubuntu_sdk_16_04-Release/HexExplorer/HexExplorer.desktop.h:1
+msgid "HexExplorer"
+msgstr "HexExplorer"
+
+#~ msgid "Current Hex"
+#~ msgstr "Couleur hex. actuelle"
+
+#~ msgid "Default"
+#~ msgstr "Par défaut"
+
+#~ msgid "Light"
+#~ msgstr "Lumineux"
+
+#~ msgid "Dark"
+#~ msgstr "Sombre"
