@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-30 09:15+0000\n"
+"POT-Creation-Date: 2017-01-30 01:45+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,34 +17,42 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:46
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:109
 msgid "Hex Explorer"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:60
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:123
 msgid "Settings"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:84
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:262
+msgid "Enter Hex"
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:286
+msgid "Cancel"
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:300
+msgid "Change"
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:525
+msgid "Background to Hex"
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:558
 msgid "Background Colour"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:111
-msgid "Current Hex"
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:666
+msgid "Ink Colour"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:140
-msgid "Default"
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:771
+msgid "Back"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:167
-msgid "Light"
-msgstr ""
-
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/HexExplorer/HexExplorer/Main.qml:194
-msgid "Dark"
-msgstr ""
-
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/build-HexExplorer-UbuntuSDK_for_builder_armhf_GCC_armhf_ubuntu_sdk_15_04-Release/HexExplorer/HexExplorer.desktop.h:1
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/build-HexExplorer-UbuntuSDK_for_desktop1604_GCC_amd64_ubuntu_sdk_16_04-Release/HexExplorer/HexExplorer.desktop.h:1
 msgid "HexExplorer"
 msgstr ""
