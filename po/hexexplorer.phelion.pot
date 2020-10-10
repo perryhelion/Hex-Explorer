@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the hexexplorer.phelion package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: hexexplorer.phelion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-10 14:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:30
+msgid "Hex Explorer"
+msgstr ""
+
+#: ../qml/Main.qml:141 ../qml/Main.qml:205 HexExplorer.desktop.in.h:1
+msgid "HexExplorer"
+msgstr ""
+
+#: ../qml/Main.qml:150
+msgid "txt"
+msgstr ""
+
+#: ../qml/Main.qml:199
+msgid "Settings"
+msgstr ""
+
+#: ../qml/Main.qml:260
+msgid "Enter Hex:  #"
+msgstr ""
+
+#: ../qml/Main.qml:305
+msgid "Apply"
+msgstr ""
+
+#: ../qml/Main.qml:569
+msgid "Set Background to "
+msgstr ""
+
+#: ../qml/Main.qml:593
+msgid "Background"
+msgstr ""
+
+#: ../qml/Main.qml:706
+msgid "Text"
+msgstr ""
