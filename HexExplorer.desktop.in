@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=HexExplorer
+Exec=HexExplorer %U
+Icon=assets/HexExplorer.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
