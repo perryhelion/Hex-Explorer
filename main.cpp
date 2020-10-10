@@ -29,7 +29,7 @@ int main( int argc, char *argv[])
     app.setApplicationName("hexexplorer.phelion");
     
     QQmlApplicationEngine engine;
-    engine.load( QUrl(QStringLiteral("qrc:/Main.qml")) );
+    engine.load( QUrl(QStringLiteral("qrc:/qml/Main.qml")) );
     
     if (engine.rootObjects().isEmpty())
         return -1;

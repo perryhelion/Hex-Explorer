@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>po/hexexplorer.phelion.pot</file>
+        <file>po/fr.po</file>
+    </qresource>
+</RCC>
