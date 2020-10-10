@@ -42,7 +42,7 @@ install(DIRECTORY assets DESTINATION ${DATA_DIR})
 
 qt5_add_resources(QT_RESOURCES qml.qrc)
 add_executable(${PROJECT_NAME} main.cpp ${QT_RESOURCES})
-qt5_use_modules(${PROJECT_NAME} Quick QuickControls2)
+qt5_use_modules(${PROJECT_NAME} Core Quick QuickControls2)
 install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION ${CMAKE_INSTALL_PREFIX})
 
 # Translations
