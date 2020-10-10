@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 _Name=HexExplorer
+_Comment=Move the sliders, see the colours, read the hexadecimal representation. 
 Exec=HexExplorer %U
 Icon=assets/HexExplorer.svg
 Terminal=false
