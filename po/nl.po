@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the hexexplorer.phelion package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hexexplorer.phelion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-10 23:39+0000\n"
+"PO-Revision-Date: 2020-10-11 13:14+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#: ../qml/Main.qml:30
+msgid "Hex Explorer"
+msgstr "Hexverkenner"
+
+#: ../qml/Main.qml:141 ../qml/Main.qml:205 HexExplorer.desktop.in.h:1
+msgid "HexExplorer"
+msgstr "HexExplorer"
+
+#: ../qml/Main.qml:150
+msgid "txt"
+msgstr "txt"
+
+#: ../qml/Main.qml:199
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../qml/Main.qml:260
+msgid "Enter Hex:  #"
+msgstr "Voer een hexcode in:  #"
+
+#: ../qml/Main.qml:305
+msgid "Apply"
+msgstr "Toepassen"
+
+#: ../qml/Main.qml:569
+msgid "Set Background to "
+msgstr "Achtergrond instellen op "
+
+#: ../qml/Main.qml:593
+msgid "Background"
+msgstr "Achtergrond"
+
+#: ../qml/Main.qml:706
+msgid "Text"
+msgstr "Tekst"
+
+#: HexExplorer.desktop.in.h:2
+msgid "Move the sliders, see the colours, read the hexadecimal representation. "
+msgstr "Verplaats de schuifknoppen en bekijk de kleuren en hexadecimale representatie. "
