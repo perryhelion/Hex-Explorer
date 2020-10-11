@@ -1,6 +1,6 @@
 # HexExplorer
 
-Move the Sliders, see the colour, read the Hexadecimal representation.
+Move the sliders, see the colours, read the hexadecimal representation.
 
 ## License
 
