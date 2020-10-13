@@ -9,7 +9,7 @@
             "desktop":  "HexExplorer.desktop"
         }
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "maintainer": "P Helion <perryhelionsemail@gmail.com>",
     "framework" : "ubuntu-sdk-16.04"
 }

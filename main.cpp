@@ -16,6 +16,7 @@
 
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <libintl.h> //added for translations
 
 int main( int argc, char *argv[])
 {
@@ -28,8 +29,14 @@ int main( int argc, char *argv[])
     app.setOrganizationDomain("nodomain.org");
     app.setApplicationName("hexexplorer.phelion");
     
+    // For Translations - Ubuntu Touch Specific
+    setlocale(LC_ALL, "");
+    bindtextdomain("hexexplorer.phelion", "/opt/click.ubuntu.com/hexexplorer.phelion/current/share/locale");
+    bind_textdomain_codeset("hexexplorer.phelion", "UTF-8");
+    textdomain("hexexplorer.phelion");
+    
     QQmlApplicationEngine engine;
-    engine.load( QUrl(QStringLiteral("qrc:/qml/Main.qml")) );
+    engine.load( QUrl(QStringLiteral("qrc:/Main.qml")) );
     
     if (engine.rootObjects().isEmpty())
         return -1;
