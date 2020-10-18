@@ -3,31 +3,29 @@
 # This file is distributed under the same license as the hexexplorer.phelion package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: hexexplorer.phelion\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-10 22:26+0000\n"
-"PO-Revision-Date: 2020-20-20 23:33+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2020-10-10 23:39+0000\n"
+"PO-Revision-Date: 2020-10-17 17:39+0200\n"
+"Last-Translator: Anne017\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../qml/Main.qml:30
 msgid "Hex Explorer"
-msgstr ""
+msgstr "Hex Explorer"
 
 #: ../qml/Main.qml:141 ../qml/Main.qml:205 HexExplorer.desktop.in.h:1
 msgid "HexExplorer"
-msgstr ""
+msgstr "HexExplorer"
 
 #: ../qml/Main.qml:150
 msgid "txt"
-msgstr ""
+msgstr "txt"
 
 #: ../qml/Main.qml:199
 msgid "Settings"
@@ -35,7 +33,7 @@ msgstr "Paramètres"
 
 #: ../qml/Main.qml:260
 msgid "Enter Hex:  #"
-msgstr "Entrer l'Hex:  #"
+msgstr "Saisissez le code :  #"
 
 #: ../qml/Main.qml:305
 msgid "Apply"
@@ -52,3 +50,7 @@ msgstr "Fond"
 #: ../qml/Main.qml:706
 msgid "Text"
 msgstr "Texte"
+
+#: HexExplorer.desktop.in.h:2
+msgid "Move the sliders, see the colours, read the hexadecimal representation. "
+msgstr "Déplacer les curseurs, voir les couleurs, lire la représentation hexadécimale. "
