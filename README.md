@@ -10,6 +10,12 @@ Originally made as a learning exercise for me to see how straightforward or not 
 
 Rewritten now using Qt Quick Controls instead of 'Ubuntu Components 1.3' (although still present to make use of 'i18n.tr()' functions) which should theoretically make it more easily portable to other platforms.
 
+**This Project is now being maintained by Daniel Frost (Danfro)**
+
+You can see his new version over on GitLab:
+**https://gitlab.com/Danfro/hexexplorer**
+
+
 ## License
 
 Copyright (C) 2020  P Helion
